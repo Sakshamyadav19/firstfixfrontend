@@ -35,6 +35,7 @@ export default function IssueCard({ card, onOpenStarterKit }) {
         ))}
       </div>
 
+
       <div className="mt-4 flex items-center justify-between">
         <div className="text-xs text-gray-500">
           Updated: {new Date(issue.updatedAt).toLocaleDateString()}
