@@ -41,3 +41,8 @@ Perfect for **open-source contributors, onboarding engineers, and developers** w
 git clone https://github.com/your-username/github-issue-ai-assistant.git
 cd github-issue-ai-assistant
 ```
+
+### Backend Repo
+```bash
+https://github.com/Sakshamyadav19/fastfixbackend
+```
